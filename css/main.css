@@ -1,0 +1,25 @@
+/* Los estilos de tu proyecto */
+
+.glyphicon-menu-hamburger {
+    font-size: 2em;
+    border: 0.05em gray solid;
+    border-radius: 5%;
+    padding: 0.2em;
+}
+
+.col-xs-9 {
+    padding-left: 6em;
+    margin: 0;
+}
+
+.col-xs-12 {
+    background-image: url(src)
+}
+
+img[src="assets/images/logoForma.png"] {
+    width: 1%;
+}
+
+.float {
+    float: left;
+}
